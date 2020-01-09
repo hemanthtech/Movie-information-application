@@ -11,7 +11,6 @@ Add your themoviedb.org API key in the `local.properties` file:
 tmdb_api_key=YOUR_API_KEY
 ```
 
-Check out the Kotlin version [here](https://github.com/esoxjem/MovieGuide-Kotlin)
 
 ![Screenshot](http://i.imgur.com/72PypXCm.png) 
 ![screenshot2](http://imgur.com/I96Eka6m.png)
