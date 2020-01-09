@@ -1,4 +1,4 @@
-# MovieGuide
+# Movie Information App
 
 Android app that lists popular/highest-rated movies, shows trailers and reviews.
 
