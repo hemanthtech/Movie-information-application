@@ -1,4 +1,4 @@
-# Movie Information App
+# Movie Information Application
 
 Android app that lists popular/highest-rated movies, shows trailers and reviews.
 
