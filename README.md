@@ -1,4 +1,4 @@
-# Movie Information Application
+# Movie Information Application --->> Hemanth Tech
 
 Android app that lists popular/highest-rated movies, shows trailers and reviews.
 
